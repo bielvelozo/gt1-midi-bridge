@@ -1,0 +1,12 @@
+# Build artifacts (PyInstaller)
+dist/
+build/
+*.spec
+
+# Runtime files
+*.log
+config.json
+
+# Python
+__pycache__/
+*.pyc
